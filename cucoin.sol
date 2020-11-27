@@ -144,7 +144,7 @@ contract CUCoinToken is ERC20Interface, Owned {
     // Token owner can approve for `spender` to transferFrom(...) `tokens`
     // from the token owner's account
     //
-    // https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20-token-standard.md
+    
     // recommends that there are no checks for the approval double-spend attack
     // as this should be implemented in user interfaces 
     // ------------------------------------------------------------------------
